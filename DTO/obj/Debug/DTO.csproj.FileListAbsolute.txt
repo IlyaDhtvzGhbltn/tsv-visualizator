@@ -1,0 +1,11 @@
+D:\MyUtilits\Sievo-backend\TSVReader\DTO\bin\Debug\DTO.dll
+D:\MyUtilits\Sievo-backend\TSVReader\DTO\bin\Debug\DTO.pdb
+D:\MyUtilits\Sievo-backend\TSVReader\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\MyUtilits\Sievo-backend\TSVReader\DTO\obj\Debug\DTO.dll
+D:\MyUtilits\Sievo-backend\TSVReader\DTO\obj\Debug\DTO.pdb
+D:\MyUtilits\Sievo-backend\TSVVisualizator\DTO\bin\Debug\DTO.dll
+D:\MyUtilits\Sievo-backend\TSVVisualizator\DTO\bin\Debug\DTO.pdb
+D:\MyUtilits\Sievo-backend\TSVVisualizator\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\MyUtilits\Sievo-backend\TSVVisualizator\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\MyUtilits\Sievo-backend\TSVVisualizator\DTO\obj\Debug\DTO.dll
+D:\MyUtilits\Sievo-backend\TSVVisualizator\DTO\obj\Debug\DTO.pdb

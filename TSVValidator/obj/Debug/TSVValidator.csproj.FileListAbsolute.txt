@@ -1,0 +1,11 @@
+D:\MyUtilits\Sievo-backend\TSVReader\TSVValidator\bin\Debug\TSVValidator.dll
+D:\MyUtilits\Sievo-backend\TSVReader\TSVValidator\bin\Debug\TSVValidator.pdb
+D:\MyUtilits\Sievo-backend\TSVReader\TSVValidator\obj\Debug\TSVValidator.csproj.CoreCompileInputs.cache
+D:\MyUtilits\Sievo-backend\TSVReader\TSVValidator\obj\Debug\TSVValidator.dll
+D:\MyUtilits\Sievo-backend\TSVReader\TSVValidator\obj\Debug\TSVValidator.pdb
+D:\MyUtilits\Sievo-backend\TSVVisualizator\TSVValidator\bin\Debug\TSVValidator.dll
+D:\MyUtilits\Sievo-backend\TSVVisualizator\TSVValidator\bin\Debug\TSVValidator.pdb
+D:\MyUtilits\Sievo-backend\TSVVisualizator\TSVValidator\obj\Debug\TSVValidator.csprojAssemblyReference.cache
+D:\MyUtilits\Sievo-backend\TSVVisualizator\TSVValidator\obj\Debug\TSVValidator.csproj.CoreCompileInputs.cache
+D:\MyUtilits\Sievo-backend\TSVVisualizator\TSVValidator\obj\Debug\TSVValidator.dll
+D:\MyUtilits\Sievo-backend\TSVVisualizator\TSVValidator\obj\Debug\TSVValidator.pdb
